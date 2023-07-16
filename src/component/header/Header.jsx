@@ -1,6 +1,6 @@
 import React from 'react'
 import CTA from './CTA'
-import me from '../../asset/me.png'
+import me from '../../asset/me1.jpeg'
 import HearderSocial from './HearderSocial'
 import './header.css'
 function Header() {
