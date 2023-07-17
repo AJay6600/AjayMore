@@ -1,6 +1,8 @@
 import React from 'react'
 import "./experience.css"
 import {BsFillPatchCheckFill} from 'react-icons/bs'
+import { ParticleBackground } from '../ParticalBackground/ParticleBackground'
+
 
 function Experience() {
   return (
@@ -130,6 +132,7 @@ function Experience() {
           </div>
       </div>
       </div>
+      
     </section>
   )
 }
