@@ -40,8 +40,14 @@ function About() {
 
 
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quo quae quaerat veniam vel exercitationem, 
-            tenetur in velit ex vero, dolores facere necessitatibus sequi soluta nemo pariatur ut, quia a.</p>
+          <p>I am a passionate Information Technology Engineering student at P.E.S's Modern College Of Engineering, Pune. With a keen interest in exploring new technologies, I am constantly amazed by the progress we, as a human species, have made in recent years.
+
+My primary focus lies in web development, where I harness the power of JavaScript to create dynamic and interactive websites. I find great joy in experimenting with different frameworks and libraries, such as React,NodeJS, Django to enhance the user experience and deliver efficient solutions.
+
+Apart from web development, I am also enthusiastic about UI/UX.</p>
+<p>  I often engage in practicing Data Structures and Algorithms (DSA) on platforms like Leetcode. This helps me sharpen my problem-solving skills and stay updated with the latest algorithms and data structures.
+
+I believe that the world of technology is a never-ending learning journey, and I am committed to expanding my knowledge and skills to contribute to its growth.</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             <div className="about_socials">
              <a href="https://www.linkedin.com/in/ajay-more-62b309251/" target='_blank'><BsLinkedin/></a>
