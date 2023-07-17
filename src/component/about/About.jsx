@@ -44,9 +44,9 @@ function About() {
             tenetur in velit ex vero, dolores facere necessitatibus sequi soluta nemo pariatur ut, quia a.</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             <div className="about_socials">
-             <a href="https://linkedin.com" target='_blank'><BsLinkedin/></a>
-             <a href="https://github.com" target='_blank'><BsGithub/></a>
-             <a href="https://instagram.com" target='_blank'><BsInstagram/></a>
+             <a href="https://www.linkedin.com/in/ajay-more-62b309251/" target='_blank'><BsLinkedin/></a>
+             <a href="https://github.com/AJay6600" target='_blank'><BsGithub/></a>
+             <a href="https://www.instagram.com/_ajay_more_66/" target='_blank'><BsInstagram/></a>
            </div>
 
         </div>
