@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../asset/Ajay_More.pdf'
+import CV from '../../asset/AjayMore.pdf'
 function CTA() {
   return (
     <div className='cta'>
