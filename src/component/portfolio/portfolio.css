@@ -107,3 +107,17 @@
 .aframe{
     border: 2px solid #d2e3ff;
 }
+
+.nodejs{
+    border: 2px solid #f60479;
+}
+
+.mongo{
+    border: 2px solid #032b02;
+}
+.express{
+    border: 2px solid #04ff00;
+}
+.jwt{
+    border: 2px solid #ac401c;
+}

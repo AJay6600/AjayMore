@@ -6,6 +6,9 @@ import IMG2 from '../../asset/chatboo.png'
 import IMG4 from '../../asset/igniteVR.png'
 import IMG5 from '../../asset/blog.png'
 import IMG6 from '../../asset/profmaker.png'
+import IMG7 from '../../asset/devfinder.png'
+import IMG8 from '../../asset/WorkoutBuddy.png'
+import IMG9 from '../../asset/gitFinder.png'
 
 function Portfolio() {
   const data =[
@@ -56,6 +59,30 @@ function Portfolio() {
       tech:['react','css','firebase'],
       github:'https://github.com/AJay6600/ProfMaker',
       demo:'https://upload-pics-250cf.web.app/',
+    },
+    {
+      id:7,
+      image:IMG7,
+      title:"DevFinder",
+      tech:['react','css', 'mongo'],
+      github:'https://github.com/AJay6600/DevFinder',
+      demo:'devfinder-fullstack.onrender.com/',
+    },
+    {
+      id:8,
+      image:IMG8,
+      title:"WorkoutBuddy",
+      tech:['react','css', 'mongo','nodejs','express','jwt'],
+      github:'https://github.com/AJay6600/WorkoutBuddy',
+      demo:'workout-buddy-gamma.vercel.app',
+    },
+    {
+      id:9,
+      image:IMG9,
+      title:"GitFinder",
+      tech:['html','css', 'js'],
+      github:'https://github.com/AJay6600/WorkoutBuddy',
+      demo:'workout-buddy-gamma.vercel.app',
     },
   ]
 
