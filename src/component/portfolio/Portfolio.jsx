@@ -66,7 +66,7 @@ function Portfolio() {
       title:"DevFinder",
       tech:['react','css', 'mongo'],
       github:'https://github.com/AJay6600/DevFinder',
-      demo:'devfinder-fullstack.onrender.com/',
+      demo:'https://devfinder-fullstack.onrender.com/',
     },
     {
       id:8,
@@ -74,7 +74,7 @@ function Portfolio() {
       title:"WorkoutBuddy",
       tech:['react','css', 'mongo','nodejs','express','jwt'],
       github:'https://github.com/AJay6600/WorkoutBuddy',
-      demo:'workout-buddy-gamma.vercel.app',
+      demo:'https://workout-buddy-gamma.vercel.app',
     },
     {
       id:9,
@@ -82,7 +82,7 @@ function Portfolio() {
       title:"GitFinder",
       tech:['html','css', 'js'],
       github:'https://github.com/AJay6600/GitFinder',
-      demo:'git-finder-iota.vercel.app/',
+      demo:'https://git-finder-iota.vercel.app/',
     },
   ]
 
