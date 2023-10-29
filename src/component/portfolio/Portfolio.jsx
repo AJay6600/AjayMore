@@ -81,8 +81,8 @@ function Portfolio() {
       image:IMG9,
       title:"GitFinder",
       tech:['html','css', 'js'],
-      github:'https://github.com/AJay6600/WorkoutBuddy',
-      demo:'workout-buddy-gamma.vercel.app',
+      github:'https://github.com/AJay6600/GitFinder',
+      demo:'git-finder-iota.vercel.app/',
     },
   ]
 
