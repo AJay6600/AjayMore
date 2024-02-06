@@ -9,6 +9,9 @@ import IMG6 from '../../asset/profmaker.png'
 import IMG7 from '../../asset/devfinder.png'
 import IMG8 from '../../asset/WorkoutBuddy.png'
 import IMG9 from '../../asset/gitFinder.png'
+import IMG10 from '../../asset/natours.png'
+import IMG11 from '../../asset/trillo.png'
+import IMG12 from '../../asset/number.png'
 
 function Portfolio() {
   const data =[
@@ -83,6 +86,30 @@ function Portfolio() {
       tech:['html','css', 'js'],
       github:'https://github.com/AJay6600/GitFinder',
       demo:'https://git-finder-iota.vercel.app/',
+    },
+    {
+      id:10,
+      image:IMG10,
+      title:"Landing Page Template",
+      tech:['html','css', 'sass'],
+      github:'https://github.com/AJay6600/Natours',
+      demo:'https://natours-ajay6600.vercel.app/',
+    },
+    {
+      id:11,
+      image:IMG12,
+      title:"Landing Page Template",
+      tech:['html','css', 'sass'],
+      github:'https://github.com/AJay6600/Trillo',
+      demo:'https://trillo-seven-delta.vercel.app/',
+    },
+    {
+      id:12,
+      image:IMG11,
+      title:"Guess My Number",
+      tech:['html','css', 'js'],
+      github:'https://github.com/AJay6600/Guess-My-Number',
+      demo:'https://guess-my-number-lac.vercel.app/',
     },
   ]
 
