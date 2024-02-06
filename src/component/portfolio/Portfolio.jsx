@@ -97,7 +97,7 @@ function Portfolio() {
     },
     {
       id:11,
-      image:IMG12,
+      image:IMG11,
       title:"Landing Page Template",
       tech:['html','css', 'sass'],
       github:'https://github.com/AJay6600/Trillo',
@@ -105,7 +105,7 @@ function Portfolio() {
     },
     {
       id:12,
-      image:IMG11,
+      image:IMG12,
       title:"Guess My Number",
       tech:['html','css', 'js'],
       github:'https://github.com/AJay6600/Guess-My-Number',
